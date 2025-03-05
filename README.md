@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/puravanand/Java_Training/tree/master/0268-missing-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/puravanand/Java_Training/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/puravanand/Java_Training/tree/master/0268-missing-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/puravanand/Java_Training/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
